@@ -44,10 +44,10 @@ This interactive dashboard allows users to:
 
 | Dashboard | Filter Sidebar |
 |-----------|----------------|
-| ![Dashboard](outputs/sample_dashboard.png) | ![Sidebar](outputs/sample_sidebar.png) |
+| ![Dashboard]![Screenshot (384)](https://github.com/user-attachments/assets/c0999dfc-4736-46ba-8391-adfa80158a42) | ![Sidebar]![Screenshot (385)](https://github.com/user-attachments/assets/4b7e61af-3286-4541-a227-674c0de59756)
+ |
 
-![Screenshot (384)](https://github.com/user-attachments/assets/c0999dfc-4736-46ba-8391-adfa80158a42)
-![Screenshot (385)](https://github.com/user-attachments/assets/4b7e61af-3286-4541-a227-674c0de59756)
+
 
 
 ---
