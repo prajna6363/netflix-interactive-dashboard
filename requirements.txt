@@ -1,0 +1,9 @@
+
+
+
+Here's the basic `requirements.txt`:
+```txt
+streamlit
+pandas
+matplotlib
+seaborn
